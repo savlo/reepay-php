@@ -1,0 +1,9 @@
+# Swagger Codegen Ignore
+
+.php_cs
+.travis.yml
+README.md
+docs/**
+git_push.sh
+phpunit.xml.dist
+test/**
